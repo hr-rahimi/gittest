@@ -1,0 +1,9 @@
+div{
+    background-color: chartreuse;
+    color: black;
+    border: 1px white dashed;
+    border-radius: 6px;
+    padding: 25px;
+    margin: 15px;
+    width: fit-content;
+}
